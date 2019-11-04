@@ -197,7 +197,7 @@ footer{
 		padding: 0.5%;
 	}
 	.logo{
-		margin: 2% 0;
+		margin: 3% 0;
 	}
 	#navigation{
 		flex-direction: column-reverse;
@@ -217,5 +217,23 @@ footer{
 	h1{
 		font-size: 4em;
 	}
+	.thirdline{
+		width: 100%;
+		flex-direction: column;
+	}
+	#features, #about{
+		width: 100%;
+	}
+	#features{
+		padding-bottom: 7%;
+	}
 
+	.bottom{
+		width: 100%;
+		flex-direction: column;
+	}
+	#services, #product, #vision{
+		width: 100%;
+		padding: 5% 0;
+	}
 }
