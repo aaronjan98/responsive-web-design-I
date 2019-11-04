@@ -226,6 +226,7 @@ footer{
 	}
 	#features{
 		padding-bottom: 7%;
+		padding-right: 0;
 	}
 
 	.bottom{
@@ -235,5 +236,8 @@ footer{
 	#services, #product, #vision{
 		width: 100%;
 		padding: 5% 0;
+	}
+	#vision{
+		padding-bottom: 0%;
 	}
 }
